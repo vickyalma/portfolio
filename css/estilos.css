@@ -39,6 +39,7 @@ nav .active {
 }
 #bio img{
     border-radius: 50%;
+    height: 100%;
 }
 #stack{
     background: rgb(125, 7, 7);
